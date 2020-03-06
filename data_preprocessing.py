@@ -12,3 +12,4 @@
 # The program should then output a corrected data file with a
 # weighting matrix and essential statistical characteristics of 
 # the set.
+# Shihab Khalfalla
